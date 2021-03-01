@@ -6,10 +6,10 @@
 
 ## Method
 
-* 1. EncoderDecoder
-* 2. FCN
-* 3. Unet
-* 4. PSPNet
+* EncoderDecoder
+* FCN
+* Unet
+* PSPNet
 
 ## Demo
 
