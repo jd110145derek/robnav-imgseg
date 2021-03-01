@@ -2,7 +2,6 @@
 
 ## Google Colab
 
-[Samantic_Segmentation_lab](https://colab.research.google.com/drive/1b1n7UsGPIwl6BJczD1jb8mURY2KKT8Rw?authuser=1#scrollTo=Q80RO6M5JmE5)
 
 ## Method
 
