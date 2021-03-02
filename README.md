@@ -1,7 +1,6 @@
 # robnav-imgseg
 
-## Google Colab
-
+* Open with Google Colab
 
 ## Method
 
